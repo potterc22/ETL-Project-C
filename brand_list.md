@@ -1,3 +1,6 @@
+# This is a list of all the brands from Walgreen's cross-referenced with the CSV file to find what was there and what wasn't.
+# Some of these have different names from each other.
+
 100 Grand
 3 Musketeers
 Airheads (csv has a space Air Heads)
