@@ -1,0 +1,36 @@
+ETL PROJECT:
+> HALLOWEEN CANDY
+by?????  brand, store
+chocolate and non-chocolates
+data scrape from store website
+what is the best selling and most popular according to:
+	> compared by both surveys and sales from the two datasets and web scrape
+SOURCE #1
+https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking
+SOURCE #2
+WALGREENS WEBPAGE
+	https://www.walgreens.com/store/c/halloween-candy/ID=520931-tier3
+> take the brand names from each sold product. ( ex. Hershey's, Snickers )
+QUESTIONS:
+> what people say they like
+> what do they like the most according to sales
+> what people think of it after purchasing (reviews/ratings)
+Data Cleanup & Analysis
+Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
+	> The sources of data that you will extract from.
+	> Scrape data from websites.
+		> The names of candies on the websites are long.
+	> Star rating (consider # of the ratings)
+	> The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+		> Combining brand names in the table? 
+		> Clean CSV for brand
+	> The type of final production database to load the data into (relational or non-relational).
+	> The final tables or collections that will be used in the production database.
+You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
+ETL TOOLS
+> SQL 
+> Pandas
+Tables:
+> Walgreens
+> Survey thing
+> then combine?????
