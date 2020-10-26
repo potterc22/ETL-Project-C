@@ -34,3 +34,6 @@ Tables:
 > Walgreens
 > Survey thing
 > then combine?????
+
+Backup:
+https://github.com/jennybc/candy/blob/master/data-raw/CANDY-HIERARCHY-2015%20SURVEY-Responses.csv?raw=true
