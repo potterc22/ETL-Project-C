@@ -10,6 +10,9 @@ https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-rankin
 SOURCE #2
 WALGREENS WEBPAGE
 	https://www.walgreens.com/store/c/halloween-candy/ID=520931-tier3
+SOURCE #3 (Backup csv)
+	https://github.com/jennybc/candy/blob/master/data-raw/CANDY-HIERARCHY-2015%20SURVEY-Responses.csv?raw=true
+
 > take the brand names from each sold product. ( ex. Hershey's, Snickers )
 QUESTIONS:
 > what people say they like
