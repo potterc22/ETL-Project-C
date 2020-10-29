@@ -10,8 +10,11 @@ Han Zhao
 
 I. Introduction
 This topic came at just the right time! We want to find out what the most popular Halloween candies are. This team will look at a survey of Halloween candy ranking and best selling candy data from Walgreen.com. The analysis will tell us:
+
 Most popular Halloween candy by survey
+
 Most popular Halloween candy by sales
+
 Most popular Halloween candy by review ratings
 
 II. Data source
