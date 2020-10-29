@@ -20,10 +20,15 @@ Most popular Halloween candy by review ratings
 II. Data source
 
 a. Candy-data.csv(Kaggle.com) includes attributes for each candy along with its ranking. For binary variables, 1 means yes, 0 means no. The data contains the following fields:
+
 chocolate: Does it contain chocolate?
+
 fruity: Is it fruit flavored?
+
 caramel: Is there caramel in the candy?
+
 peanutalmondy: Does it contain peanuts, peanut butter or almonds?
+
 nougat: Does it contain nougat?
 crispedricewafer: Does it contain crisped rice, wafers, or a cookie component?
 hard: Is it a hard candy?
